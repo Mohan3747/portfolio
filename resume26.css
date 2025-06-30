@@ -1,0 +1,82 @@
+.around{
+            display: flex;
+            background-color: whitesmoke;
+            justify-content:space-between;
+            width: auto;
+            padding: 1%;
+        }
+
+        .one{
+            font-style: verdana;
+            text-align: left;
+            width: 20px;
+        }
+
+        .two{
+           
+            width: 300px;
+            display: flex;
+            justify-content: space-between;
+  
+        }
+
+        .three{
+            text-align:right;
+        }
+
+        .mid{
+            display: flex;
+           
+        }
+
+        .name{
+            border: 2px dotted black;
+            
+            justify-content: left;
+        }
+
+       .m{
+        display: flex;
+        justify-content:space-around;
+        background-color:gray;
+        padding: 3%;
+        }
+
+       .o{
+       width: 400px;
+       height: auto;
+       padding: 3%;
+       }
+
+       .h{
+        height:auto;
+        width: 200px;
+        }
+
+        .create{
+      
+       
+        display: flex;
+        justify-content:center;
+        gap: 100px;
+        }
+
+        .fill{
+            display: flex;
+            background-color:rgb(159, 153, 153);
+            border: 2px solid black;
+            text-align: center;
+            width: 250px;
+            height: 150px;
+        
+            justify-content: space-around;
+        }
+
+        .a{
+            
+            padding: 20px 20px;
+            max-width: 400px;
+            margin:auto;
+            
+        }
+
